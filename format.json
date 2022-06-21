@@ -1,0 +1,14 @@
+{
+  "PK": 0,
+  "date": "29/07/2021",
+  "category": "Professional networking",
+  "sentence": "During this brief chat we were able to brainstorm and discuss new projects we were working on, which in turn provided much needed sense-making and problem solving.",
+  "sentence_short": ["brief", "chat", "were", "able", "to", "brainstorm", "discuss", "new", "new", "projects", "were", "working", "turn", "provided", "much", "needed", "sense", "making", "problem", "solving"],
+  "sentence_keywords": [["brief chat", ""], ["new projects", ""], ["turn", ""], ["sense", ""], ["making", ""], ["problem", ""]],
+  "sentence_sentiment": [0.9956484436988831, 0.004351497627794743],
+  "sentence_sentiment_net": 0.991296946,
+  "sentence_sent_score": 5.432860676,
+  "sentence_sentiment_label": 1,
+  "sentence_entities": "[]",
+  "sentence_non_entities": ["brief chat", "new projects", "turn", "sense", "making", "problem"]
+}
